@@ -96,6 +96,14 @@ websites:
       twitter: riseupnet
       img: riseup.png
       tfa: No
+      
+      name: Thexyz
+      url: https://www.thexyz.com
+      img: thexyz.png
+      tfa: Yes
+      sms: Yes
+      phone: Yes
+      doc: http://blog.thexyz.com/2016/02/thexyz-adds-support-for-fido-u2f-and.html
 
     - name: Yahoo Mail
       url: https://mail.yahoo.com/
